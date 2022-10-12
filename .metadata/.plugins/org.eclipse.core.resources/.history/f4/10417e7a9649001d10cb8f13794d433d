@@ -1,0 +1,14 @@
+
+
+public class Main {
+
+	public static void main1(String[] args) {
+		int not = 55;
+		if (not>=50) {
+			System.out.println("Geçtiniz");
+		}
+		
+		
+	}
+
+}

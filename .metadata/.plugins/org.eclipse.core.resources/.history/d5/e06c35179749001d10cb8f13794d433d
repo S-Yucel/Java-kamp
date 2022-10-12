@@ -1,0 +1,19 @@
+package degiskenler;
+
+public class Main {
+
+	public static void main1(String[] args) {
+		
+			int not = 55;
+			
+			int kredi =100000;
+			double notOrtalamasi = 50.5;
+			String isim = "S.Yucel";
+			boolean sistemeGirisYapmisMi = true;
+			
+			System.out.println(not);
+
+		
+	}
+
+}

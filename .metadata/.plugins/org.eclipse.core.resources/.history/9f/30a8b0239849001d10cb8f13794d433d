@@ -1,0 +1,24 @@
+package degiskenler;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int	not = 55;
+		if(not>=50){
+			System.out.println("Geçti");
+			
+		}
+		if(not>=40 && not<50 ){
+			System.out.println("Bütünleme");
+			
+		}
+		
+		if(not<40){
+			System.out.println("Kaldı");
+			
+		}
+
+		
+	}
+
+}

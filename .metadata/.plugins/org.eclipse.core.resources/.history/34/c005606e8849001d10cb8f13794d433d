@@ -1,0 +1,11 @@
+import javax.swing.plaf.synth.SynthStyleFactory;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int not = 55;
+		System.out.println(not);
+
+	}
+
+}
